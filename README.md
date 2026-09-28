@@ -7,7 +7,7 @@
 # Bio
 
 **Roman**  
-**15 y.o. & School student & Developer**
+**15 y.o. Backend Developer**
 
 <br/>
 
